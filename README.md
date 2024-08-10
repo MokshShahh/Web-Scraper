@@ -4,7 +4,7 @@
 
 This script scrapes product information from Newegg's website based on a search term provided by the user. The script fetches multiple pages of search results, extracts the product names, prices, and links, and then sorts the products by price in ascending order. Finally, it displays the sorted product information in the terminal.
 
-DO NOT USE THIS SCRIPT IT IS STRICKTLY FOR EDUCATIONAL PURPOSES. I HAVE BEEN BLOCKED BY NEWEGG FOR WEB SCRAPPING SO CANNOT TEST THIS SCRIPT ANYMORE 
+DO NOT USE THIS SCRIPT IT IS FOR EDUCATIONAL PURPOSES ONLY. I HAVE BEEN BLOCKED BY NEWEGG FOR WEB SCRAPPING SO CANNOT TEST THIS SCRIPT ANYMORE.
 USE WITH CAUTION
 
 ## Prerequisites
