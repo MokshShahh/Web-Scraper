@@ -1,5 +1,4 @@
 # web-scraper
-### README
 
 # Newegg Product Scraper
 
