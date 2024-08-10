@@ -73,3 +73,5 @@ pip install requests beautifulsoup4
 ## Disclaimer
 
 This script is for educational purposes only. Scraping websites can be against the terms of service of some websites, including Newegg. Use this script responsibly and ensure you are not violating any legal agreements or terms of service.
+USE WITH CAUTION
+This was a college project that i did for time pass. Did not expect to be IP Blocked by newegg if any newegg employees are reading this pls unban me. i love your site
