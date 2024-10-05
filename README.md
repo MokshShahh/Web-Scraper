@@ -1,4 +1,4 @@
-# web-scraper
+# Web-Scraper
 
 # Newegg Product Scraper
 
